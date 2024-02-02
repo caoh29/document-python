@@ -1,0 +1,10 @@
+Hello,
+
+This is a test file.
+
+
+The purpose is to test if the program will display the info as expected or not.
+
+Have a wonderful day :)
+
+Bye
