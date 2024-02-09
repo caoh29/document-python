@@ -1,3 +1,4 @@
+import os
 def print_file_content(filename):
     try:
         with open(filename, 'r') as file:
@@ -8,3 +9,5 @@ def print_file_content(filename):
 
 file_name = "data.txt"
 print_file_content(file_name)
+
+
